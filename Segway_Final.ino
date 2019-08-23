@@ -1,3 +1,10 @@
+/* This code is the main code of the program. 
+ * 
+ * 
+ * 
+ */
+
+
 #include "I2Cdev.h"
 #include "MPU6050_6Axis_MotionApps20.h"
 #include "Wire.h"
